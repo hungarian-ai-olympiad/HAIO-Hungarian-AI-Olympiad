@@ -1,8 +1,18 @@
 # HAIO 2026
 
-A harmadik Magyar MI Diákolimpia. Az első év nyári és téli szezonnal.
+<a href="#hu">🇭🇺 Magyar</a> · <a href="#en">🇬🇧 English</a>
 
-## Időbeosztás
+---
+
+<a id="hu"></a>
+
+## 🇭🇺 Magyar
+
+A Magyar MI Diákolimpia harmadik kiírása, az első év nyári és téli szezonnal.
+
+A versenyről bővebben: [tehetseg.inf.elte.hu/mi_olimpia/2026](https://tehetseg.inf.elte.hu/mi_olimpia/2026)
+
+### Időbeosztás
 
 | Esemény | Dátum | Státusz |
 |---------|-------|---------|
@@ -12,39 +22,96 @@ A harmadik Magyar MI Diákolimpia. Az első év nyári és téli szezonnal.
 | Téli Országos | 2026 tél | Tervezett |
 | Téli Tábor | 2026 tél | Tervezett |
 
-## Fordulók
+### Fordulók
 
-### [Nyári Online](nyari-online/)
+#### [Nyári Online](nyari-online/)
 
 Két Kaggle feladat:
 - **A feladat: Hóember Számlálás**
 - **B feladat: Gyártósori Minőségellenőrzés**
 
-### Nyári Országos
+#### Nyári Országos
 
 *Hamarosan.*
 
-### Nyári Tábor
+#### Nyári Tábor
 
 *Tervezett.*
 
-### Téli Országos
+#### Téli Országos
 
 *Tervezett.*
 
-### Téli Tábor
+#### Téli Tábor
 
 *Tervezett.*
 
-## Feladatok áttekintése
+### Feladatok
 
 | Feladat | Kategória | Forduló | Megoldás |
 |---------|-----------|---------|----------|
 | Hóember Számlálás | ML | Online | - |
-| Gyártósori Minőségellenőrzés | ML | Online | - |
+| Gyártósori Minőségellenőrzés | ML | Online | van |
 
-## Dokumentáció
+### Dokumentáció
 
 - [Nyári versenyszabályzat](docs/nyari-versenyszabalyzat.pdf)
 - [Téli versenyszabályzat](docs/teli-versenyszabalyzat.pdf)
 - [Hozzájárulási nyilatkozat (utazás)](docs/hozzajarulasi-nyilatkozat-utazas.pdf)
+
+---
+
+<a id="en"></a>
+
+## 🇬🇧 English
+
+The third edition of the Hungarian AI Olympiad, and the first year with both summer and winter seasons.
+
+More details: [tehetseg.inf.elte.hu/mi_olimpia/2026](https://tehetseg.inf.elte.hu/mi_olimpia/2026)
+
+### Schedule
+
+| Event | Date | Status |
+|-------|------|--------|
+| Summer Online Qualifier | Spring 2026 | Completed |
+| Summer National Finals | Summer 2026 | Upcoming |
+| Summer Camp | Summer 2026 | Planned |
+| Winter National | Winter 2026 | Planned |
+| Winter Camp | Winter 2026 | Planned |
+
+### Rounds
+
+#### [Summer Online](nyari-online/)
+
+Two Kaggle tasks:
+- **Task A: Snowman Counting**
+- **Task B: Production Line Quality Control**
+
+#### Summer National
+
+*Upcoming.*
+
+#### Summer Camp
+
+*Planned.*
+
+#### Winter National
+
+*Planned.*
+
+#### Winter Camp
+
+*Planned.*
+
+### Tasks
+
+| Task | Category | Round | Solution |
+|------|----------|-------|----------|
+| Hóember Számlálás (Snowman Counting) | ML | Online | - |
+| Gyártósori Minőségellenőrzés (Quality Control) | ML | Online | yes |
+
+### Documentation
+
+- [Summer competition rules](docs/nyari-versenyszabalyzat.pdf) (Hungarian)
+- [Winter competition rules](docs/teli-versenyszabalyzat.pdf) (Hungarian)
+- [Travel consent form](docs/hozzajarulasi-nyilatkozat-utazas.pdf) (Hungarian)

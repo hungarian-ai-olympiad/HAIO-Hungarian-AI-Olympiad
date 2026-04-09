@@ -1,22 +1,23 @@
 # HAIO 2024
 
-Az első Magyar MI Diákolimpia. Egyetlen országos forduló az ELTE Informatikai Karán.
+<a href="#hu">🇭🇺 Magyar</a> · <a href="#en">🇬🇧 English</a>
 
-## Időbeosztás
+---
 
-| Esemény | Dátum |
-|---------|-------|
-| Nyári Országos Döntő | 2024 nyár |
+<a id="hu"></a>
 
-## Fordulók
+## 🇭🇺 Magyar
 
-### [Nyári Országos](nyari-orszagos/)
+A Magyar MI Diákolimpia első kiírása. Egyetlen helyszíni forduló, az ELTE Informatikai Karán, 2024. május 30-án.
 
-Helyszíni verseny két részből:
+A versenyről bővebben: [tehetseg.inf.elte.hu/mi_olimpia/2024](https://tehetseg.inf.elte.hu/mi_olimpia/2024)
+
+### [Nyári Országos Döntő](nyari-orszagos/)
+
 - **Elméleti rész:** TensorFlow Neural Network Playground feladatok
 - **Gyakorlati rész:** 4 Computer Vision + 4 NLP feladat Google Colab-ban
 
-## Feladatok áttekintése
+### Feladatok
 
 | Feladat | Kategória | Megoldás | Adat |
 |---------|-----------|----------|------|
@@ -33,12 +34,42 @@ Helyszíni verseny két részből:
 
 > **Megjegyzés:** A 2024-es verseny adatainak egy része Google Drive-on volt tárolva, amely azóta törlésre került. Az egyedi versenyanyagok (Elrejtett Kincs, Intelligens János Gazda, Gépi Fordítás) nem visszaállíthatóak. Az SMS és Twitter adatok nyilvános adathalmazokból származnak, alternatív forrásokkal pótolhatóak, de az SMS feladathoz tartozó előre tanított modell súlyok elvesztek.
 
-## Dokumentáció
+### Dokumentáció
 
 - [Versenyszabályzat](docs/versenyszabalyzat.pdf)
 
-## Nemzetközi csapatok
+---
 
-**IOAI:** Kovács-Bánhalmi Hédi Zita, Ungár Vince, Szilágyi Balázs, Vajda Ádám, Christ Miranda Anna, Lehotai Gergely, Molnár István Ádám, Nagy Dávid Leonárd
+<a id="en"></a>
 
-**IAIO:** Labancz Benedek, Christ Miranda Anna, Szilágyi Balázs, Ungár Vince
+## 🇬🇧 English
+
+The first edition of the Hungarian AI Olympiad. A single on-site round held at the ELTE Faculty of Informatics on May 30, 2024.
+
+More details: [tehetseg.inf.elte.hu/mi_olimpia/2024](https://tehetseg.inf.elte.hu/mi_olimpia/2024)
+
+### [Summer National Finals](nyari-orszagos/)
+
+- **Theory:** TensorFlow Neural Network Playground exercises
+- **Practice:** 4 Computer Vision + 4 NLP tasks on Google Colab
+
+### Tasks
+
+| Task | Category | Solution | Data |
+|------|----------|----------|------|
+| Elrejtett Kincs | CV | yes | ❌ lost |
+| Intelligens János Gazda | CV | yes | ❌ lost |
+| Transfer Tanulás | CV | yes | ✅ torchvision |
+| Spectrogram | CV | yes | ✅ [OSF](https://osf.io/drjhb/download) |
+| SMS | NLP | yes | ⚠️ [UCI/Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) (model weights lost) |
+| Twitter Hangulatelemzés | NLP | yes | ⚠️ [Sentiment140/Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140) |
+| Gépi Fordítás | NLP | yes | ❌ lost |
+| Tű a Szénakazalban | NLP | yes | ✅ generated |
+| TF Playground 1 | Theory | - | - |
+| TF Playground 2 | Theory | - | - |
+
+> **Note:** Some 2024 competition data was hosted on Google Drive, which has since been deleted. Custom datasets (Elrejtett Kincs, Intelligens János Gazda, Gépi Fordítás) are unrecoverable. SMS and Twitter data originate from public datasets and can be obtained from alternative sources, but the pretrained model weights for the SMS task are lost.
+
+### Documentation
+
+- [Competition rules](docs/versenyszabalyzat.pdf) (Hungarian)

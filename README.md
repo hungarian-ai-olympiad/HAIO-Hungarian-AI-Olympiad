@@ -78,13 +78,6 @@ haio-program/
 - [Eredmények 2025 Online](https://tehetseg.inf.elte.hu/mi_olimpia/archive/2025/online-results) · [Eredmények 2025 Országos](https://tehetseg.inf.elte.hu/mi_olimpia/archive/2025/results)
 - [Hall of Fame](https://tehetseg.inf.elte.hu/mi_olimpia/hall-of-fame) - nemzetközi szereplések
 
-## Technikai környezet
-
-- **Nyelv:** Python 3.10+
-- **Platform:** Google Colab / Jupyter Notebook
-- **Könyvtárak:** PyTorch, scikit-learn, pandas, numpy, transformers, gymnasium
-- **Adatok:** A repóban vagy Google Drive-on elérhetők
-
 ## Partnerek
 
 <p align="center">
@@ -98,6 +91,20 @@ haio-program/
 
 - Weboldal: [tehetseg.inf.elte.hu/mi_olimpia](https://tehetseg.inf.elte.hu/mi_olimpia/)
 - E-mail: [midiakolimpia@gmail.com](mailto:midiakolimpia@gmail.com)
+
+## Hivatkozás
+
+Ha felhasználod a verseny anyagait kutatásban vagy oktatásban, kérjük hivatkozz rá:
+
+```bibtex
+@misc{haio,
+  title={HAIO: Hungarian AI Olympiad - Tasks and Solutions},
+  author={{Hungarian AI Olympiad}},
+  year={2024},
+  url={https://github.com/Hungarian-AI-Olympiad/haio-program},
+  note={Magyarország hivatalos MI diákolimpiájának feladatai és megoldásai}
+}
+```
 
 ## Licenc
 
@@ -133,6 +140,23 @@ The competition expands each year:
 | **2025** | Summer Online + Summer National | 5 tasks (1 ML online + 1 theoretical + 4 practical) | [`2025/`](2025/) |
 | **2026** | Summer Online + Summer National + Summer Camp + Winter National + Winter Camp | 2 tasks *(so far)* | [`2026/`](2026/) |
 
+## Repository Structure
+
+```text
+haio-program/
+├── 2024/
+│   ├── docs/                          # Competition rules
+│   └── nyari-orszagos/                # Tasks, solutions, theory
+├── 2025/
+│   ├── docs/                          # Rules, data policy, one-pagers
+│   ├── nyari-online/                  # Kaggle task + data
+│   └── nyari-orszagos/                # Tasks, solutions, theory
+├── 2026/
+│   ├── docs/                          # Competition rules (summer + winter)
+│   └── nyari-online/                  # Kaggle tasks + data
+└── logos/                             # HAIO branding assets
+```
+
 ## Useful Links
 
 - [Syllabus (MÓLÓ)](https://tehetseg.inf.elte.hu/mi_olimpia/molo) - preparation guide and study materials
@@ -153,6 +177,20 @@ The competition expands each year:
 
 - Website: [tehetseg.inf.elte.hu/mi_olimpia](https://tehetseg.inf.elte.hu/mi_olimpia/)
 - Email: [midiakolimpia@gmail.com](mailto:midiakolimpia@gmail.com)
+
+## Citation
+
+If you use competition materials in research or education, please cite:
+
+```bibtex
+@misc{haio,
+  title={HAIO: Hungarian AI Olympiad - Tasks and Solutions},
+  author={{Hungarian AI Olympiad}},
+  year={2024},
+  url={https://github.com/Hungarian-AI-Olympiad/haio-program},
+  note={Tasks and solutions from Hungary's official AI olympiad for high school students}
+}
+```
 
 ## License
 
