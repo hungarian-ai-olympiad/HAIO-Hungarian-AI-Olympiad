@@ -32,22 +32,19 @@
 
 A **Magyar MI Diákolimpia (HAIO)** Magyarország hivatalos mesterséges intelligencia versenye 9-13. osztályos diákok számára. A verseny célja, hogy a középiskolás diákok megismerkedjenek a gépi tanulás, a számítógépes látás, a természetes nyelvfeldolgozás és a megerősítéses tanulás alapjaival, és versenyhelyzetben alkalmazzák tudásukat.
 
-A verseny az [ELTE Informatikai Kar](https://www.inf.elte.hu/) szervezésében valósul meg. A legjobb versenyzők képviselik Magyarországot az [IOAI](https://ioai-official.org/) (International Olympiad in Artificial Intelligence) és [IAIO](https://www.ircai.org/iaio/) (International Artificial Intelligence Olympiad) nemzetközi versenyeken.
+A verseny az [ELTE Informatikai Kar](https://www.inf.elte.hu/) szervezésében valósul meg. A legjobb versenyzők képviselik Magyarországot az [IOAI](https://ioai-official.org/) (International Olympiad in Artificial Intelligence), [IAIO](https://www.ircai.org/iaio/) (International Artificial Intelligence Olympiad) és [CEOAI](https://ceoai-official.org/) (Central European Olympiad in Artificial Intelligence) nemzetközi versenyeken.
 
 ## Versenyszakaszok
 
-### Nyári szezon
-| Forduló | Formátum | Leírás |
-|---------|----------|--------|
-| **Nyári Online** | Kaggle | Online válogató forduló, gépi tanulási feladat nyilvános ranglista alapján |
-| **Nyári Országos** | Helyszíni | Országos döntő az ELTE-n: elméleti + gyakorlati feladatok (CV, NLP, ML, RL) |
-| **Nyári Tábor** | Helyszíni | Felkészítő tábor és utolsó válogató a nemzetközi csapatba |
+A verseny évről évre bővül:
 
-### Téli szezon *(2026-tól)*
-| Forduló | Formátum | Leírás |
-|---------|----------|--------|
-| **Téli Országos** | Helyszíni | Országos forduló |
-| **Téli Tábor** | Helyszíni | Felkészítő tábor és utolsó válogató |
+| Forduló | Formátum | Leírás | Mióta |
+|---------|----------|--------|-------|
+| **Nyári Online** | Kaggle | Online válogató, ML feladat nyilvános ranglista alapján | 2025 |
+| **Nyári Országos** | Helyszíni | Országos döntő az ELTE-n: elméleti + gyakorlati (CV, NLP, ML, RL) | 2024 |
+| **Nyári Tábor** | Helyszíni | Felkészítő tábor és utolsó válogató a nemzetközi csapatba | 2026 |
+| **Téli Országos** | Helyszíni | Országos forduló | 2026 |
+| **Téli Tábor** | Helyszíni | Felkészítő tábor és utolsó válogató | 2026 |
 
 ## Évfolyamok
 
@@ -55,7 +52,7 @@ A verseny az [ELTE Informatikai Kar](https://www.inf.elte.hu/) szervezésében v
 |----|----------|-----------|-------|
 | **2024** | Nyári Országos | 10 feladat (4 CV, 4 NLP, 2 elméleti) | [`2024/`](2024/) |
 | **2025** | Nyári Online + Nyári Országos | 5 feladat (1 ML online + 1 elméleti + 4 gyakorlati) | [`2025/`](2025/) |
-| **2026** | Nyári Online + *(folyamatban)* | 2 feladat *(eddig)* | [`2026/`](2026/) |
+| **2026** | Nyári Online + Nyári Országos + Nyári Tábor + Téli Országos + Téli Tábor | 2 feladat *(eddig)* | [`2026/`](2026/) |
 
 ## Repó felépítése
 
@@ -114,22 +111,19 @@ Ez a repó [MIT licenc](LICENSE) alatt érhető el.
 
 The **Hungarian AI Olympiad (HAIO)** is Hungary's official artificial intelligence competition for high school students (grades 9-13). The competition introduces students to machine learning, computer vision, natural language processing, and reinforcement learning, and challenges them to apply their knowledge in a competitive setting.
 
-Organized by the [ELTE Faculty of Informatics](https://www.inf.elte.hu/). Top performers represent Hungary at [IOAI](https://ioai-official.org/) (International Olympiad in Artificial Intelligence) and [IAIO](https://www.ircai.org/iaio/) (International Artificial Intelligence Olympiad).
+Organized by the [ELTE Faculty of Informatics](https://www.inf.elte.hu/). Top performers represent Hungary at [IOAI](https://ioai-official.org/) (International Olympiad in Artificial Intelligence), [IAIO](https://www.ircai.org/iaio/) (International Artificial Intelligence Olympiad), and [CEOAI](https://ceoai-official.org/) (Central European Olympiad in Artificial Intelligence).
 
 ## Competition Stages
 
-### Summer season
-| Round | Format | Description |
-|-------|--------|-------------|
-| **Summer Online** | Kaggle | Online qualifier, ML task scored on public leaderboard |
-| **Summer National** | On-site | National finals at ELTE: theoretical + practical tasks (CV, NLP, ML, RL) |
-| **Summer Camp** | On-site | Training camp and final selection for international teams |
+The competition expands each year:
 
-### Winter season *(from 2026)*
-| Round | Format | Description |
-|-------|--------|-------------|
-| **Winter National** | On-site | National round |
-| **Winter Camp** | On-site | Training camp and final selection |
+| Round | Format | Description | Since |
+|-------|--------|-------------|-------|
+| **Summer Online** | Kaggle | Online qualifier, ML task scored on public leaderboard | 2025 |
+| **Summer National** | On-site | National finals at ELTE: theoretical + practical (CV, NLP, ML, RL) | 2024 |
+| **Summer Camp** | On-site | Training camp and final selection for international teams | 2026 |
+| **Winter National** | On-site | National round | 2026 |
+| **Winter Camp** | On-site | Training camp and final selection | 2026 |
 
 ## Editions
 
@@ -137,7 +131,7 @@ Organized by the [ELTE Faculty of Informatics](https://www.inf.elte.hu/). Top pe
 |------|--------|-------|--------|
 | **2024** | Summer National | 10 tasks (4 CV, 4 NLP, 2 theoretical) | [`2024/`](2024/) |
 | **2025** | Summer Online + Summer National | 5 tasks (1 ML online + 1 theoretical + 4 practical) | [`2025/`](2025/) |
-| **2026** | Summer Online + *(ongoing)* | 2 tasks *(so far)* | [`2026/`](2026/) |
+| **2026** | Summer Online + Summer National + Summer Camp + Winter National + Winter Camp | 2 tasks *(so far)* | [`2026/`](2026/) |
 
 ## Useful Links
 
