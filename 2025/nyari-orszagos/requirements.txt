@@ -1,0 +1,27 @@
+# HAIO 2025 | Nyári Országos Döntő
+
+# -- Paraméteres Paletta (CV) --
+torch>=2.0
+numpy>=1.24
+matplotlib>=3.7
+Pillow>=9.0
+torchview>=0.2
+
+# -- Klasszifikáló Klón (ML) --
+# torch, numpy (fent)
+scikit-learn>=1.3
+catboost>=1.2
+
+# -- Emoji Epics (NLP) --
+# torch, numpy, matplotlib, scikit-learn (fent)
+pandas>=2.0
+transformers>=4.30
+datasets>=2.14
+evaluate>=0.4
+nltk>=3.8
+tqdm>=4.65
+
+# -- Katakomba Kaland (RL) --
+# numpy, matplotlib, tqdm (fent)
+gymnasium>=0.29
+creepy-catacombs-s1>=0.1
