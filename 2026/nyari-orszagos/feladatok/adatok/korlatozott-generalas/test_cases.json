@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "prompt": "Once upon a time in a small village,",
+    "forbidden": ["the", "a", "an", "and", "or", "but"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 1,
+    "prompt": "Scientists recently discovered that",
+    "forbidden": ["the", "a", "of", "discovered", "found", "showed", "demonstrated", "observed", "research", "study", "experiment", "reveal"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 2,
+    "prompt": "To multiply two fractions, first you",
+    "forbidden": ["numerator", "denominator", "multiply", "fraction", "top", "bottom", "product", "divide", "cross", "reduce", "simplify", "number"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 3,
+    "prompt": "The history of the Roman Empire shows that",
+    "forbidden": ["emperor", "empire", "kingdom", "civilization", "archaeology", "philosopher", "philosophy", "agriculture", "architecture", "aristocracy"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 4,
+    "prompt": "When you train for a marathon, you must",
+    "forbidden": ["run", "jog", "walk", "pace", "mile", "kilometer", "minute", "hour", "breath", "stretch"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 5,
+    "prompt": "In modern programming languages, developers often",
+    "forbidden": ["code", "use", "write", "create", "make", "function", "program", "language", "data", "system", "object", "class"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 6,
+    "prompt": "She walked into the room and",
+    "forbidden": ["i", "you", "we", "they", "he", "she", "it", "was", "is", "were"],
+    "max_new_tokens": 150
+  },
+  {
+    "id": 7,
+    "prompt": "The detective looked at the scene and realized",
+    "forbidden": ["murder", "killer", "victim", "death", "died", "kill", "weapon", "crime", "blood", "dead", "body", "corpse", "suspect"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 8,
+    "prompt": "Climate change affects the planet by",
+    "forbidden": ["climate", "warming", "temperature", "global", "carbon", "greenhouse", "emission", "ice", "sea", "level", "weather"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 9,
+    "prompt": "The weather today is",
+    "forbidden": ["the", "a", "an", "is", "was", "are", "were", "be", "been"],
+    "max_new_tokens": 300
+  },
+  {
+    "id": 10,
+    "prompt": "To make perfect risotto, you have to",
+    "forbidden": ["rice", "stock", "stir", "butter", "cheese", "onion", "pan", "cook", "broth"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 11,
+    "prompt": "This algorithm efficiently sorts the input by",
+    "forbidden": ["sort", "algorithm", "input", "array", "element", "compare", "swap", "value", "list"],
+    "max_new_tokens": 150
+  },
+  {
+    "id": 12,
+    "prompt": "After the final whistle, the coach told the team that",
+    "forbidden": ["game", "team", "player", "win", "lose", "score", "goal", "match", "play", "field"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 13,
+    "prompt": "When you first arrive in a foreign country, it helps to",
+    "forbidden": ["country", "city", "language", "speak", "local", "tourist", "travel", "map", "passport"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 14,
+    "prompt": "To compose a memorable melody, a beginner should",
+    "forbidden": ["note", "melody", "music", "song", "chord", "scale", "key", "play", "compose", "rhythm"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 15,
+    "prompt": "The fundamental question of free will asks whether",
+    "forbidden": ["free", "will", "choice", "determined", "fate", "destiny", "action", "decide", "cause"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 16,
+    "prompt": "If you want to improve your sleep quality, consider",
+    "forbidden": ["sleep", "bed", "night", "tired", "rest", "wake", "dream", "pillow", "mattress"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 17,
+    "prompt": "When astronomers observe distant galaxies, they often see",
+    "forbidden": ["star", "galaxy", "planet", "light", "telescope", "space", "sun", "moon", "orbit"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 18,
+    "prompt": "A small business owner should always remember to",
+    "forbidden": ["business", "money", "customer", "profit", "sale", "price", "market", "sell", "buy"],
+    "max_new_tokens": 200
+  },
+  {
+    "id": 19,
+    "prompt": "When a baby bird first leaves its nest, it",
+    "forbidden": ["bird", "nest", "fly", "wing", "feather", "egg", "chick", "beak", "tree"],
+    "max_new_tokens": 150
+  }
+]

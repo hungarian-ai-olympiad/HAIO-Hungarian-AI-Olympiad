@@ -17,7 +17,7 @@ A versenyről bővebben: [tehetseg.inf.elte.hu/mi_olimpia/2026](https://tehetseg
 | Esemény | Dátum | Státusz |
 |---------|-------|---------|
 | Nyári Online Válogató | 2026 tavasz | Lezárult |
-| Nyári Országos Döntő | 2026 nyár | Hamarosan |
+| Nyári Országos Döntő | 2026 nyár | Lezárult |
 | Nyári Tábor | 2026 nyár | Tervezett |
 | Téli Országos | 2026 tél | Tervezett |
 | Téli Tábor | 2026 tél | Tervezett |
@@ -30,9 +30,11 @@ Két Kaggle feladat:
 - **A feladat: Hóember Számlálás**
 - **B feladat: Gyártósori Minőségellenőrzés**
 
-#### Nyári Országos
+#### [Nyári Országos](nyari-orszagos/)
 
-*Hamarosan.*
+Helyszíni verseny két részből:
+- **Elméleti rész:** Többválasztós és kifejtős kérdések (Deep Learning, CV, NLP, ML, Optimalizáció)
+- **Gyakorlati rész:** 3 feladat: CV, ML, NLP
 
 #### Nyári Tábor
 
@@ -52,6 +54,10 @@ Két Kaggle feladat:
 |---------|-----------|---------|----------|
 | Hóember Számlálás | ML | Online | - |
 | Gyártósori Minőségellenőrzés | ML | Online | van |
+| Elméleti Forduló | Elmélet | Országos | van |
+| Darált Dokumentumok | CV | Országos | van |
+| Korrupt Kódex | ML | Országos | van |
+| Korlátozott Generálás | NLP | Országos | van |
 
 ### Dokumentáció
 
@@ -74,7 +80,7 @@ More details: [tehetseg.inf.elte.hu/mi_olimpia/2026](https://tehetseg.inf.elte.h
 | Event | Date | Status |
 |-------|------|--------|
 | Summer Online Qualifier | Spring 2026 | Completed |
-| Summer National Finals | Summer 2026 | Upcoming |
+| Summer National Finals | Summer 2026 | Completed |
 | Summer Camp | Summer 2026 | Planned |
 | Winter National | Winter 2026 | Planned |
 | Winter Camp | Winter 2026 | Planned |
@@ -87,9 +93,11 @@ Two Kaggle tasks:
 - **Task A: Snowman Counting**
 - **Task B: Production Line Quality Control**
 
-#### Summer National
+#### [Summer National](nyari-orszagos/)
 
-*Upcoming.*
+On-site competition in two parts:
+- **Theory:** Multiple choice and open-ended questions (Deep Learning, CV, NLP, ML, Optimization)
+- **Practice:** 3 tasks: CV, ML, NLP
 
 #### Summer Camp
 
@@ -109,6 +117,10 @@ Two Kaggle tasks:
 |------|----------|-------|----------|
 | Hóember Számlálás (Snowman Counting) | ML | Online | - |
 | Gyártósori Minőségellenőrzés (Quality Control) | ML | Online | yes |
+| Elméleti Forduló (Theory Round) | Theory | National | yes |
+| Darált Dokumentumok (Shredded Documents) | CV | National | yes |
+| Korrupt Kódex (Corrupt Codex) | ML | National | yes |
+| Korlátozott Generálás (Constrained Generation) | NLP | National | yes |
 
 ### Documentation
 

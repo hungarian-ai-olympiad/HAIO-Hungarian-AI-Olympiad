@@ -1,0 +1,17 @@
+# HAIO 2026 | Nyári Országos Döntő
+
+# -- Darált Dokumentumok (CV) --
+torch
+numpy
+pandas
+pillow
+matplotlib
+gdown
+
+# -- Korrupt Kódex (ML) --
+# torch, numpy, pandas, gdown (fent)
+scikit-learn
+
+# -- Korlátozott Generálás (NLP) --
+# torch, numpy (fent)
+transformers
