@@ -49,7 +49,7 @@ Helyszíni verseny két részből:
 - [Versenyszabályzat](docs/versenyszabalyzat.pdf)
 - [Adatkezelési tájékoztató](docs/adatkezelesi-tajekoztato.pdf)
 - [Hozzájárulási nyilatkozat](docs/hozzajarulasi-nyilatkozat.pdf)
-- One-pagerek: [CV](docs/one-pagerek/cv-one-pager.pdf) · [ML](docs/one-pagerek/ml-one-pager.pdf) · [NLP](docs/one-pagerek/nlp-one-pager.pdf) · [RL](docs/one-pagerek/rl-one-pager.pdf)
+- One-pagerek: [CV](docs/one-pagerek/nyari-orszagos/cv-one-pager.pdf) · [ML](docs/one-pagerek/nyari-orszagos/ml-one-pager.pdf) · [NLP](docs/one-pagerek/nyari-orszagos/nlp-one-pager.pdf) · [RL](docs/one-pagerek/nyari-orszagos/rl-one-pager.pdf)
 
 ### Továbbjutottak és nemzetközi csapatok
 
@@ -102,7 +102,7 @@ On-site competition in two parts:
 - [Competition rules](docs/versenyszabalyzat.pdf) (Hungarian)
 - [Data policy](docs/adatkezelesi-tajekoztato.pdf) (Hungarian)
 - [Consent form](docs/hozzajarulasi-nyilatkozat.pdf) (Hungarian)
-- One-pagers: [CV](docs/one-pagerek/cv-one-pager.pdf) · [ML](docs/one-pagerek/ml-one-pager.pdf) · [NLP](docs/one-pagerek/nlp-one-pager.pdf) · [RL](docs/one-pagerek/rl-one-pager.pdf)
+- One-pagers: [CV](docs/one-pagerek/nyari-orszagos/cv-one-pager.pdf) · [ML](docs/one-pagerek/nyari-orszagos/ml-one-pager.pdf) · [NLP](docs/one-pagerek/nyari-orszagos/nlp-one-pager.pdf) · [RL](docs/one-pagerek/nyari-orszagos/rl-one-pager.pdf)
 
 ### Qualifiers and international teams
 

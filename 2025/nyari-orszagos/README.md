@@ -30,10 +30,10 @@ Többválasztós és kifejtős kérdések: Deep Learning, Reinforcement Learning
 
 ### Feladat one-pagerek
 
-- [CV One Pager](../docs/one-pagerek/cv-one-pager.pdf)
-- [ML One Pager](../docs/one-pagerek/ml-one-pager.pdf)
-- [NLP One Pager](../docs/one-pagerek/nlp-one-pager.pdf)
-- [RL One Pager](../docs/one-pagerek/rl-one-pager.pdf)
+- [CV One Pager](../docs/one-pagerek/nyari-orszagos/cv-one-pager.pdf)
+- [ML One Pager](../docs/one-pagerek/nyari-orszagos/ml-one-pager.pdf)
+- [NLP One Pager](../docs/one-pagerek/nyari-orszagos/nlp-one-pager.pdf)
+- [RL One Pager](../docs/one-pagerek/nyari-orszagos/rl-one-pager.pdf)
 
 ### Platform
 
@@ -67,10 +67,10 @@ Multiple choice and open-ended questions: Deep Learning, Reinforcement Learning,
 
 ### Task one-pagers
 
-- [CV One Pager](../docs/one-pagerek/cv-one-pager.pdf)
-- [ML One Pager](../docs/one-pagerek/ml-one-pager.pdf)
-- [NLP One Pager](../docs/one-pagerek/nlp-one-pager.pdf)
-- [RL One Pager](../docs/one-pagerek/rl-one-pager.pdf)
+- [CV One Pager](../docs/one-pagerek/nyari-orszagos/cv-one-pager.pdf)
+- [ML One Pager](../docs/one-pagerek/nyari-orszagos/ml-one-pager.pdf)
+- [NLP One Pager](../docs/one-pagerek/nyari-orszagos/nlp-one-pager.pdf)
+- [RL One Pager](../docs/one-pagerek/nyari-orszagos/rl-one-pager.pdf)
 
 ### Platform
 

@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/evfolyamok-3-blue?style=flat-square" alt="3 editions"/>
-  <img src="https://img.shields.io/badge/feladatok-18-green?style=flat-square" alt="18 tasks"/>
+  <img src="https://img.shields.io/badge/feladatok-21-green?style=flat-square" alt="21 tasks"/>
   <img src="https://img.shields.io/badge/kategoriak-CV%20%C2%B7%20NLP%20%C2%B7%20ML%20%C2%B7%20RL-orange?style=flat-square" alt="CV · NLP · ML · RL"/>
   <img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" alt="MIT License"/>
 </p>
@@ -52,7 +52,7 @@ A verseny évről évre bővül:
 |----|----------|-----------|-------|
 | **2024** | Nyári Országos | 10 feladat (4 CV, 4 NLP, 2 elméleti) | [`2024/`](2024/) |
 | **2025** | Nyári Online + Nyári Országos | 5 feladat (1 ML online + 1 elméleti + 4 gyakorlati) | [`2025/`](2025/) |
-| **2026** | Nyári Online + Nyári Országos + Nyári Tábor + Téli Országos + Téli Tábor | 2 feladat *(eddig)* | [`2026/`](2026/) |
+| **2026** | Nyári Online + Nyári Országos + Nyári Tábor + Téli Országos + Téli Tábor | 8 feladat *(eddig)* | [`2026/`](2026/) |
 
 ## Repó felépítése
 
@@ -66,8 +66,10 @@ haio-program/
 │   ├── nyari-online/                  # Kaggle feladat + adatok
 │   └── nyari-orszagos/                # Feladatok, megoldások, elméleti rész
 ├── 2026/
-│   ├── docs/                          # Versenyszabályzatok (nyári + téli)
-│   └── nyari-online/                  # Kaggle feladatok + adatok
+│   ├── docs/                          # Versenyszabályzatok, one-pagerek
+│   ├── nyari-online/                  # Kaggle feladatok + adatok
+│   ├── nyari-orszagos/                # Feladatok, megoldások, elméleti rész
+│   └── nyari-tabor/                   # Feladatok, megoldások (ML, NLP, CV)
 └── logos/                             # HAIO arculati elemek
 ```
 
@@ -138,7 +140,7 @@ The competition expands each year:
 |------|--------|-------|--------|
 | **2024** | Summer National | 10 tasks (4 CV, 4 NLP, 2 theoretical) | [`2024/`](2024/) |
 | **2025** | Summer Online + Summer National | 5 tasks (1 ML online + 1 theoretical + 4 practical) | [`2025/`](2025/) |
-| **2026** | Summer Online + Summer National + Summer Camp + Winter National + Winter Camp | 2 tasks *(so far)* | [`2026/`](2026/) |
+| **2026** | Summer Online + Summer National + Summer Camp + Winter National + Winter Camp | 8 tasks *(so far)* | [`2026/`](2026/) |
 
 ## Repository Structure
 
@@ -152,8 +154,10 @@ haio-program/
 │   ├── nyari-online/                  # Kaggle task + data
 │   └── nyari-orszagos/                # Tasks, solutions, theory
 ├── 2026/
-│   ├── docs/                          # Competition rules (summer + winter)
-│   └── nyari-online/                  # Kaggle tasks + data
+│   ├── docs/                          # Competition rules, one-pagers
+│   ├── nyari-online/                  # Kaggle tasks + data
+│   ├── nyari-orszagos/                # Tasks, solutions, theory
+│   └── nyari-tabor/                   # Tasks, solutions (ML, NLP, CV)
 └── logos/                             # HAIO branding assets
 ```
 

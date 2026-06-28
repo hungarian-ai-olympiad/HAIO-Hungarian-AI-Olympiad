@@ -18,7 +18,7 @@ A versenyről bővebben: [tehetseg.inf.elte.hu/mi_olimpia/2026](https://tehetseg
 |---------|-------|---------|
 | Nyári Online Válogató | 2026 tavasz | Lezárult |
 | Nyári Országos Döntő | 2026 nyár | Lezárult |
-| Nyári Tábor | 2026 nyár | Tervezett |
+| Nyári Tábor | 2026 nyár | Lezárult |
 | Téli Országos | 2026 tél | Tervezett |
 | Téli Tábor | 2026 tél | Tervezett |
 
@@ -36,9 +36,12 @@ Helyszíni verseny két részből:
 - **Elméleti rész:** Többválasztós és kifejtős kérdések (Deep Learning, CV, NLP, ML, Optimalizáció)
 - **Gyakorlati rész:** 3 feladat: CV, ML, NLP
 
-#### Nyári Tábor
+#### [Nyári Tábor](nyari-tabor/)
 
-*Tervezett.*
+Tábori válogató, 3 gyakorlati feladat:
+- **ML: Vak Kurátor** (aktív tanulás)
+- **NLP: Érzelemfrissítés** (érzelemosztályozás, Qwen3-Embedding + LoRA)
+- **CV: Modellbővítés** (folyamatos tanulás)
 
 #### Téli Országos
 
@@ -58,6 +61,9 @@ Helyszíni verseny két részből:
 | Darált Dokumentumok | CV | Országos | van |
 | Korrupt Kódex | ML | Országos | van |
 | Korlátozott Generálás | NLP | Országos | van |
+| Vak Kurátor | ML | Tábor | van |
+| Érzelemfrissítés | NLP | Tábor | van |
+| Modellbővítés | CV | Tábor | van |
 
 ### Dokumentáció
 
@@ -81,7 +87,7 @@ More details: [tehetseg.inf.elte.hu/mi_olimpia/2026](https://tehetseg.inf.elte.h
 |-------|------|--------|
 | Summer Online Qualifier | Spring 2026 | Completed |
 | Summer National Finals | Summer 2026 | Completed |
-| Summer Camp | Summer 2026 | Planned |
+| Summer Camp | Summer 2026 | Completed |
 | Winter National | Winter 2026 | Planned |
 | Winter Camp | Winter 2026 | Planned |
 
@@ -99,9 +105,12 @@ On-site competition in two parts:
 - **Theory:** Multiple choice and open-ended questions (Deep Learning, CV, NLP, ML, Optimization)
 - **Practice:** 3 tasks: CV, ML, NLP
 
-#### Summer Camp
+#### [Summer Camp](nyari-tabor/)
 
-*Planned.*
+Camp selection, 3 practical tasks:
+- **ML: Vak Kurátor** (active learning)
+- **NLP: Érzelemfrissítés** (sentiment classification, Qwen3-Embedding + LoRA)
+- **CV: Modellbővítés** (continual learning)
 
 #### Winter National
 
@@ -121,6 +130,9 @@ On-site competition in two parts:
 | Darált Dokumentumok (Shredded Documents) | CV | National | yes |
 | Korrupt Kódex (Corrupt Codex) | ML | National | yes |
 | Korlátozott Generálás (Constrained Generation) | NLP | National | yes |
+| Vak Kurátor | ML | Camp | yes |
+| Érzelemfrissítés | NLP | Camp | yes |
+| Modellbővítés | CV | Camp | yes |
 
 ### Documentation
 

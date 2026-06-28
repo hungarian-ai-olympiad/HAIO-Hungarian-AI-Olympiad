@@ -23,15 +23,15 @@ Többválasztós és kifejtős kérdések: Deep Learning, Computer Vision, NLP, 
 
 | Feladat | Kategória | Leírás | Feladat | Colab | Megoldás | Colab |
 |---------|-----------|--------|---------|-------|----------|-------|
-| Darált Dokumentumok | CV | Darált dokumentumok rekonstrukciója és nyomozás CCTV-felvételeken | [`feladat`](feladatok/daralt-dokumentumok.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/feladatok/daralt-dokumentumok.ipynb) | [`megoldás`](megoldasok/daralt-dokumentumok-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/megoldasok/daralt-dokumentumok-megoldas.ipynb) |
-| Korrupt Kódex | ML | Címkezaj-detektálás egy betanított háló viselkedéséből | [`feladat`](feladatok/korrupt-kodex.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/feladatok/korrupt-kodex.ipynb) | [`megoldás`](megoldasok/korrupt-kodex-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/megoldasok/korrupt-kodex-megoldas.ipynb) |
-| Korlátozott Generálás | NLP | Korlátozott szöveggenerálás kis nyelvi modellel, tiltott szavak nélkül | [`feladat`](feladatok/korlatozott-generalas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/feladatok/korlatozott-generalas.ipynb) | [`megoldás`](megoldasok/korlatozott-generalas-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/megoldasok/korlatozott-generalas-megoldas.ipynb) |
+| Darált Dokumentumok | CV | Darált dokumentumok rekonstrukciója és nyomozás CCTV-felvételeken | [`feladat`](feladatok/daralt-dokumentumok.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h_fzwPvoL-dXNV2rGuvjKdMoX1CSREtN?usp=sharing) | [`megoldás`](megoldasok/daralt-dokumentumok-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qvCJQTEwocrlC9qH2xghoYQ-j0wXpn7f?usp=sharing) |
+| Korrupt Kódex | ML | Címkezaj-detektálás egy betanított háló viselkedéséből | [`feladat`](feladatok/korrupt-kodex.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h-bhQrpQShg-KJkmTRtqdZG_vhSov6Jf?usp=sharing) | [`megoldás`](megoldasok/korrupt-kodex-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yJIBmVCf5Gn6zW-HkKIYNpC-IByYmNcP?usp=sharing) |
+| Korlátozott Generálás | NLP | Korlátozott szöveggenerálás kis nyelvi modellel, tiltott szavak nélkül | [`feladat`](feladatok/korlatozott-generalas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z7WUIzf-SEgcoBMsTExij_9zoHyvHixC?usp=sharing) | [`megoldás`](megoldasok/korlatozott-generalas-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1egIBeR-B-IFLeOUlios7FDPpnXY1ynXi?usp=sharing) |
 
 ### Feladat one-pagerek
 
-- [CV One Pager](../docs/one-pagerek/cv-one-pager.pdf)
-- [ML One Pager](../docs/one-pagerek/ml-one-pager.pdf)
-- [NLP One Pager](../docs/one-pagerek/nlp-one-pager.pdf)
+- [CV One Pager](../docs/one-pagerek/nyari-orszagos/cv-one-pager.pdf)
+- [ML One Pager](../docs/one-pagerek/nyari-orszagos/ml-one-pager.pdf)
+- [NLP One Pager](../docs/one-pagerek/nyari-orszagos/nlp-one-pager.pdf)
 
 ### Platform
 
@@ -58,15 +58,15 @@ Multiple choice and open-ended questions: Deep Learning, Computer Vision, NLP, M
 
 | Task | Category | Description | Task | Colab | Solution | Colab |
 |------|----------|-------------|------|-------|----------|-------|
-| Darált Dokumentumok | CV | Reconstructing shredded documents and an investigation over CCTV footage | [`task`](feladatok/daralt-dokumentumok.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/feladatok/daralt-dokumentumok.ipynb) | [`solution`](megoldasok/daralt-dokumentumok-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/megoldasok/daralt-dokumentumok-megoldas.ipynb) |
-| Korrupt Kódex | ML | Detecting label noise from a trained network's behaviour | [`task`](feladatok/korrupt-kodex.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/feladatok/korrupt-kodex.ipynb) | [`solution`](megoldasok/korrupt-kodex-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/megoldasok/korrupt-kodex-megoldas.ipynb) |
-| Korlátozott Generálás | NLP | Constrained text generation with a small language model, avoiding forbidden words | [`task`](feladatok/korlatozott-generalas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/feladatok/korlatozott-generalas.ipynb) | [`solution`](megoldasok/korlatozott-generalas-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-orszagos/megoldasok/korlatozott-generalas-megoldas.ipynb) |
+| Darált Dokumentumok | CV | Reconstructing shredded documents and an investigation over CCTV footage | [`task`](feladatok/daralt-dokumentumok.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h_fzwPvoL-dXNV2rGuvjKdMoX1CSREtN?usp=sharing) | [`solution`](megoldasok/daralt-dokumentumok-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qvCJQTEwocrlC9qH2xghoYQ-j0wXpn7f?usp=sharing) |
+| Korrupt Kódex | ML | Detecting label noise from a trained network's behaviour | [`task`](feladatok/korrupt-kodex.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h-bhQrpQShg-KJkmTRtqdZG_vhSov6Jf?usp=sharing) | [`solution`](megoldasok/korrupt-kodex-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yJIBmVCf5Gn6zW-HkKIYNpC-IByYmNcP?usp=sharing) |
+| Korlátozott Generálás | NLP | Constrained text generation with a small language model, avoiding forbidden words | [`task`](feladatok/korlatozott-generalas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z7WUIzf-SEgcoBMsTExij_9zoHyvHixC?usp=sharing) | [`solution`](megoldasok/korlatozott-generalas-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1egIBeR-B-IFLeOUlios7FDPpnXY1ynXi?usp=sharing) |
 
 ### Task one-pagers
 
-- [CV One Pager](../docs/one-pagerek/cv-one-pager.pdf)
-- [ML One Pager](../docs/one-pagerek/ml-one-pager.pdf)
-- [NLP One Pager](../docs/one-pagerek/nlp-one-pager.pdf)
+- [CV One Pager](../docs/one-pagerek/nyari-orszagos/cv-one-pager.pdf)
+- [ML One Pager](../docs/one-pagerek/nyari-orszagos/ml-one-pager.pdf)
+- [NLP One Pager](../docs/one-pagerek/nyari-orszagos/nlp-one-pager.pdf)
 
 ### Platform
 

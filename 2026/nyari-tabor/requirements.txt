@@ -1,0 +1,22 @@
+# HAIO 2026 | Nyári Tábor Válogató
+
+# -- Vak Kurátor (ML) --
+numpy
+pandas
+scikit-learn
+torch
+gdown
+
+# -- Érzelemfrissítés (NLP) --
+# torch, numpy, pandas, scikit-learn, gdown (fent)
+transformers>=4.44
+peft>=0.12
+bitsandbytes>=0.43
+accelerate>=0.33
+tqdm>=4.66
+
+# -- Modellbővítés (CV) --
+# torch, numpy, pandas, scikit-learn, gdown, tqdm (fent)
+torchvision
+pillow
+matplotlib
