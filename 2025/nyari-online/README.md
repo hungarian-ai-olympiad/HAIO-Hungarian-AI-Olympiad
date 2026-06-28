@@ -24,13 +24,13 @@ Gépi tanulási modell fejlesztése, amely egyetemi felvételi eredményeket jó
 
 | Fájl | Leírás | Colab |
 |------|--------|-------|
-| [`starter-notebook.ipynb`](starter-notebook.ipynb) | Kiinduló notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2025/nyari-online/starter-notebook.ipynb) |
+| [`starter-notebook.ipynb`](starter-notebook.ipynb) | Kiinduló notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2025/nyari-online/starter-notebook.ipynb) |
 
 ### Megoldás
 
 | Fájl | Leírás | Colab |
 |------|--------|-------|
-| [`megoldasok/egyetemi-felveteli-megoldas.ipynb`](megoldasok/egyetemi-felveteli-megoldas.ipynb) | Mintamegoldás (EDA, feature engineering, LR/RF/XGBoost/LightGBM) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2025/nyari-online/megoldasok/egyetemi-felveteli-megoldas.ipynb) |
+| [`megoldasok/egyetemi-felveteli-megoldas.ipynb`](megoldasok/egyetemi-felveteli-megoldas.ipynb) | Mintamegoldás (EDA, feature engineering, LR/RF/XGBoost/LightGBM) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2025/nyari-online/megoldasok/egyetemi-felveteli-megoldas.ipynb) |
 
 ---
 
@@ -54,10 +54,10 @@ Build a machine learning model that predicts university admission outcomes based
 
 | File | Description | Colab |
 |------|-------------|-------|
-| [`starter-notebook.ipynb`](starter-notebook.ipynb) | Starter notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2025/nyari-online/starter-notebook.ipynb) |
+| [`starter-notebook.ipynb`](starter-notebook.ipynb) | Starter notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2025/nyari-online/starter-notebook.ipynb) |
 
 ### Solution
 
 | File | Description | Colab |
 |------|-------------|-------|
-| [`megoldasok/egyetemi-felveteli-megoldas.ipynb`](megoldasok/egyetemi-felveteli-megoldas.ipynb) | Sample solution (EDA, feature engineering, LR/RF/XGBoost/LightGBM) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2025/nyari-online/megoldasok/egyetemi-felveteli-megoldas.ipynb) |
+| [`megoldasok/egyetemi-felveteli-megoldas.ipynb`](megoldasok/egyetemi-felveteli-megoldas.ipynb) | Sample solution (EDA, feature engineering, LR/RF/XGBoost/LightGBM) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2025/nyari-online/megoldasok/egyetemi-felveteli-megoldas.ipynb) |

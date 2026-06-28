@@ -17,19 +17,19 @@ Platform: Kaggle
 
 | Fájl | Leírás | Colab |
 |------|--------|-------|
-| [`A/starter-notebook.ipynb`](A/starter-notebook.ipynb) | Kiinduló notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-online/A/starter-notebook.ipynb) |
+| [`A/starter-notebook.ipynb`](A/starter-notebook.ipynb) | Kiinduló notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2026/nyari-online/A/starter-notebook.ipynb) |
 
 ### B feladat: Gyártósori Minőségellenőrzés
 
 | Fájl | Leírás | Colab |
 |------|--------|-------|
-| [`B/starter-notebook.ipynb`](B/starter-notebook.ipynb) | Kiinduló notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-online/B/starter-notebook.ipynb) |
+| [`B/starter-notebook.ipynb`](B/starter-notebook.ipynb) | Kiinduló notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2026/nyari-online/B/starter-notebook.ipynb) |
 
 ### Megoldások
 
 | Fájl | Leírás | Colab |
 |------|--------|-------|
-| [`megoldasok/gyartosori-minoseg-megoldas.ipynb`](megoldasok/gyartosori-minoseg-megoldas.ipynb) | B feladat mintamegoldás | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-online/megoldasok/gyartosori-minoseg-megoldas.ipynb) |
+| [`megoldasok/gyartosori-minoseg-megoldas.ipynb`](megoldasok/gyartosori-minoseg-megoldas.ipynb) | B feladat mintamegoldás | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2026/nyari-online/megoldasok/gyartosori-minoseg-megoldas.ipynb) |
 
 ---
 
@@ -46,16 +46,16 @@ Platform: Kaggle
 
 | File | Description | Colab |
 |------|-------------|-------|
-| [`A/starter-notebook.ipynb`](A/starter-notebook.ipynb) | Starter notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-online/A/starter-notebook.ipynb) |
+| [`A/starter-notebook.ipynb`](A/starter-notebook.ipynb) | Starter notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2026/nyari-online/A/starter-notebook.ipynb) |
 
 ### Task B: Production Line Quality Control
 
 | File | Description | Colab |
 |------|-------------|-------|
-| [`B/starter-notebook.ipynb`](B/starter-notebook.ipynb) | Starter notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-online/B/starter-notebook.ipynb) |
+| [`B/starter-notebook.ipynb`](B/starter-notebook.ipynb) | Starter notebook | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2026/nyari-online/B/starter-notebook.ipynb) |
 
 ### Solutions
 
 | File | Description | Colab |
 |------|-------------|-------|
-| [`megoldasok/gyartosori-minoseg-megoldas.ipynb`](megoldasok/gyartosori-minoseg-megoldas.ipynb) | Task B sample solution | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/haio-program/blob/main/2026/nyari-online/megoldasok/gyartosori-minoseg-megoldas.ipynb) |
+| [`megoldasok/gyartosori-minoseg-megoldas.ipynb`](megoldasok/gyartosori-minoseg-megoldas.ipynb) | Task B sample solution | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2026/nyari-online/megoldasok/gyartosori-minoseg-megoldas.ipynb) |

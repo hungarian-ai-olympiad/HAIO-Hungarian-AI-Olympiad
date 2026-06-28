@@ -57,7 +57,7 @@ A verseny évről évre bővül:
 ## Repó felépítése
 
 ```
-haio-program/
+HAIO-Hungarian-AI-Olympiad/
 ├── 2024/
 │   ├── docs/                          # Versenyszabályzat
 │   └── nyari-orszagos/                # Feladatok, megoldások, elméleti rész
@@ -103,7 +103,7 @@ Ha felhasználod a verseny anyagait kutatásban vagy oktatásban, kérjük hivat
   title={HAIO: Hungarian AI Olympiad - Tasks and Solutions},
   author={{Hungarian AI Olympiad}},
   year={2024},
-  url={https://github.com/Hungarian-AI-Olympiad/haio-program},
+  url={https://github.com/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad},
   note={Magyarország hivatalos MI diákolimpiájának feladatai és megoldásai}
 }
 ```
@@ -145,7 +145,7 @@ The competition expands each year:
 ## Repository Structure
 
 ```text
-haio-program/
+HAIO-Hungarian-AI-Olympiad/
 ├── 2024/
 │   ├── docs/                          # Competition rules
 │   └── nyari-orszagos/                # Tasks, solutions, theory
@@ -191,7 +191,7 @@ If you use competition materials in research or education, please cite:
   title={HAIO: Hungarian AI Olympiad - Tasks and Solutions},
   author={{Hungarian AI Olympiad}},
   year={2024},
-  url={https://github.com/Hungarian-AI-Olympiad/haio-program},
+  url={https://github.com/Hungarian-AI-Olympiad/HAIO-Hungarian-AI-Olympiad},
   note={Tasks and solutions from Hungary's official AI olympiad for high school students}
 }
 ```
