@@ -44,7 +44,7 @@ A verseny évről évre bővül:
 | **Nyári Országos** | Helyszíni | Országos döntő az ELTE-n: elméleti + gyakorlati (CV, NLP, ML, RL) | 2024 |
 | **Nyári Tábor** | Helyszíni | Felkészítő tábor és utolsó válogató a nemzetközi csapatba | 2026 |
 | **Téli Országos** | Helyszíni | Országos forduló | 2026 |
-| **Téli Tábor** | Helyszíni | Felkészítő tábor és utolsó válogató | 2026 |
+| **Téli Tábor** | Helyszíni | Felkészítő tábor | 2026 |
 
 ## Évfolyamok
 
