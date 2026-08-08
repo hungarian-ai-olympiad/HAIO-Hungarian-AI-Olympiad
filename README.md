@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/evfolyamok-3-blue?style=flat-square" alt="3 editions"/>
   <img src="https://img.shields.io/badge/feladatok-21-green?style=flat-square" alt="21 tasks"/>
   <img src="https://img.shields.io/badge/kategoriak-CV%20%C2%B7%20NLP%20%C2%B7%20ML%20%C2%B7%20RL-orange?style=flat-square" alt="CV · NLP · ML · RL"/>
-  <img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" alt="MIT License"/>
+  <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square" alt="CC BY-NC-SA 4.0 License"/>
 </p>
 
 <p align="center">
@@ -70,8 +70,22 @@ HAIO-Hungarian-AI-Olympiad/
 │   ├── nyari-online/                  # Kaggle feladatok + adatok
 │   ├── nyari-orszagos/                # Feladatok, megoldások, elméleti rész
 │   └── nyari-tabor/                   # Feladatok, megoldások (ML, NLP, CV)
+├── tananyagok/                        # Felkészülési tananyag (MÓLÓ + HAIO)
 └── logos/                             # HAIO arculati elemek
 ```
+
+A versenyfeladatok fájlként vannak verziókövetve; az angol változatuk `<név>.en.ipynb`
+néven van mellettük. A felkészülési tananyag ezzel szemben Google Colabra hivatkozik —
+lásd a [`tananyagok/`](tananyagok/) mappát.
+
+## Tananyagok
+
+Minden notebook elérhető **magyarul és angolul** is.
+
+| | |
+|---|---|
+| [**MÓLÓ**](tananyagok/molo.md) | Felkészülési tananyag — a Python-alapoktól a mélytanulásig |
+| [**HAIO**](tananyagok/haio.md) | Haladó anyag az IOAI és IAIO olimpiákra |
 
 ## Hasznos linkek
 
@@ -110,7 +124,9 @@ Ha felhasználod a verseny anyagait kutatásban vagy oktatásban, kérjük hivat
 
 ## Licenc
 
-Ez a repó [MIT licenc](LICENSE) alatt érhető el.
+Ez a repó a [CC BY-NC-SA 4.0 licenc](LICENSE) alatt érhető el. Az anyagok szabadon
+felhasználhatók és továbbadhatók a forrás megjelölésével, nem kereskedelmi célra, és a
+származékos műveket ugyanezen licenc alatt kell közzétenni.
 
 ---
 
@@ -158,8 +174,22 @@ HAIO-Hungarian-AI-Olympiad/
 │   ├── nyari-online/                  # Kaggle tasks + data
 │   ├── nyari-orszagos/                # Tasks, solutions, theory
 │   └── nyari-tabor/                   # Tasks, solutions (ML, NLP, CV)
+├── tananyagok/                        # Preparation curriculum (MÓLÓ + HAIO)
 └── logos/                             # HAIO branding assets
 ```
+
+Competition notebooks are committed as files; English versions sit beside them as
+`<name>.en.ipynb`. The preparation curriculum is linked to Google Colab instead —
+see [`tananyagok/`](tananyagok/).
+
+## Curriculum
+
+Every notebook is available in **both Hungarian and English**.
+
+| | |
+|---|---|
+| [**MÓLÓ**](tananyagok/molo.md) | Preparation curriculum — from Python basics to deep learning |
+| [**HAIO**](tananyagok/haio.md) | Advanced material for the IOAI and IAIO olympiads |
 
 ## Useful Links
 
@@ -198,4 +228,6 @@ If you use competition materials in research or education, please cite:
 
 ## License
 
-This repository is available under the [MIT License](LICENSE).
+This repository is available under the [CC BY-NC-SA 4.0 License](LICENSE). The materials
+may be freely used and redistributed with attribution, for non-commercial purposes, and
+derivative works must be released under the same licence.
