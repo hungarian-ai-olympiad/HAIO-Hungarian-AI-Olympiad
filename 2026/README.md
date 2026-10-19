@@ -19,7 +19,7 @@ A versenyről bővebben: [tehetseg.inf.elte.hu/mi_olimpia/2026](https://tehetseg
 | Nyári Online Válogató | 2026 tavasz | Lezárult |
 | Nyári Országos Döntő | 2026 nyár | Lezárult |
 | Nyári Tábor | 2026 nyár | Lezárult |
-| Téli Országos | 2026 tél | Tervezett |
+| Téli Országos Válogató | 2026. október 17. | Lezárult |
 | Téli Tábor | 2026 tél | Tervezett |
 
 ### Fordulók
@@ -43,9 +43,11 @@ Tábori válogató, 3 gyakorlati feladat:
 - **NLP: Érzelemfrissítés** (érzelemosztályozás, Qwen3-Embedding + LoRA)
 - **CV: Modellbővítés** (folyamatos tanulás)
 
-#### Téli Országos
+#### [Téli Országos](teli-orszagos/)
 
-*Tervezett.*
+Helyszíni verseny két részből, az IAIO 2027 csapat kiválasztására:
+- **Elméleti rész:** 3 óra, 22 feladat (keresés, felügyelt és felügyelet nélküli tanulás, ajánlórendszerek, megerősítéses tanulás, modellek kiértékelése, kernelmódszerek)
+- **Gyakorlati rész:** 1 óra, 1 feladat: **ML: Kettős Könyvelés** (rekordpárosítás)
 
 #### Téli Tábor
 
@@ -64,6 +66,8 @@ Tábori válogató, 3 gyakorlati feladat:
 | Vak Kurátor | ML | Tábor | van |
 | Érzelemfrissítés | NLP | Tábor | van |
 | Modellbővítés | CV | Tábor | van |
+| Elméleti Forduló | Elmélet | Téli Országos | van |
+| Kettős Könyvelés | ML | Téli Országos | van |
 
 ### Dokumentáció
 
@@ -88,7 +92,7 @@ More details: [tehetseg.inf.elte.hu/mi_olimpia/2026](https://tehetseg.inf.elte.h
 | Summer Online Qualifier | Spring 2026 | Completed |
 | Summer National Finals | Summer 2026 | Completed |
 | Summer Camp | Summer 2026 | Completed |
-| Winter National | Winter 2026 | Planned |
+| Winter National Qualifier | 17 October 2026 | Completed |
 | Winter Camp | Winter 2026 | Planned |
 
 ### Rounds
@@ -112,9 +116,11 @@ Camp selection, 3 practical tasks:
 - **NLP: Érzelemfrissítés** (sentiment classification, Qwen3-Embedding + LoRA)
 - **CV: Modellbővítés** (continual learning)
 
-#### Winter National
+#### [Winter National](teli-orszagos/)
 
-*Planned.*
+On-site competition in two parts, selecting the IAIO 2027 team:
+- **Theory:** 3 hours, 22 problems (search, supervised and unsupervised learning, recommender systems, reinforcement learning, model evaluation, kernel methods)
+- **Practice:** 1 hour, 1 task: **ML: Kettős Könyvelés (Double Entry)** (record linkage)
 
 #### Winter Camp
 
@@ -133,6 +139,8 @@ Camp selection, 3 practical tasks:
 | Vak Kurátor | ML | Camp | yes |
 | Érzelemfrissítés | NLP | Camp | yes |
 | Modellbővítés | CV | Camp | yes |
+| Elméleti Forduló (Theory Round) | Theory | Winter National | yes |
+| Kettős Könyvelés (Double Entry) | ML | Winter National | yes |
 
 ### Documentation
 

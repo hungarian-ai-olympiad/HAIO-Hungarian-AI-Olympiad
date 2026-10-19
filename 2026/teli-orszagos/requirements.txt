@@ -1,0 +1,8 @@
+# HAIO 2026 | Téli Országos Válogató
+
+# -- Kettős Könyvelés (ML) --
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib

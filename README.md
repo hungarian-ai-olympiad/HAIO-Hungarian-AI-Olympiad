@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/evfolyamok-3-blue?style=flat-square" alt="3 editions"/>
-  <img src="https://img.shields.io/badge/feladatok-21-green?style=flat-square" alt="21 tasks"/>
+  <img src="https://img.shields.io/badge/feladatok-27-green?style=flat-square" alt="27 tasks"/>
   <img src="https://img.shields.io/badge/kategoriak-CV%20%C2%B7%20NLP%20%C2%B7%20ML%20%C2%B7%20RL-orange?style=flat-square" alt="CV · NLP · ML · RL"/>
   <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square" alt="CC BY-NC-SA 4.0 License"/>
 </p>
@@ -43,7 +43,7 @@ A verseny évről évre bővül:
 | **Nyári Online** | Kaggle | Online válogató, ML feladat nyilvános ranglista alapján | 2025 |
 | **Nyári Országos** | Helyszíni | Országos döntő az ELTE-n: elméleti + gyakorlati (CV, NLP, ML, RL) | 2024 |
 | **Nyári Tábor** | Helyszíni | Felkészítő tábor és utolsó válogató a nemzetközi csapatba | 2026 |
-| **Téli Országos** | Helyszíni | Országos forduló | 2026 |
+| **Téli Országos** | Helyszíni | Országos válogató: elméleti + 1 órás gyakorlati (ML) forduló, az IAIO csapat kiválasztása | 2026 |
 | **Téli Tábor** | Helyszíni | Felkészítő tábor | 2026 |
 
 ## Évfolyamok
@@ -51,8 +51,8 @@ A verseny évről évre bővül:
 | Év | Fordulók | Feladatok | Mappa |
 |----|----------|-----------|-------|
 | **2024** | Nyári Országos | 10 feladat (4 CV, 4 NLP, 2 elméleti) | [`2024/`](2024/) |
-| **2025** | Nyári Online + Nyári Országos | 5 feladat (1 ML online + 1 elméleti + 4 gyakorlati) | [`2025/`](2025/) |
-| **2026** | Nyári Online + Nyári Országos + Nyári Tábor + Téli Országos + Téli Tábor | 8 feladat *(eddig)* | [`2026/`](2026/) |
+| **2025** | Nyári Online + Nyári Országos | 6 feladat (1 ML online + 1 elméleti + 4 gyakorlati) | [`2025/`](2025/) |
+| **2026** | Nyári Online + Nyári Országos + Nyári Tábor + Téli Országos + Téli Tábor | 11 feladat *(eddig)* | [`2026/`](2026/) |
 
 ## Repó felépítése
 
@@ -69,7 +69,8 @@ HAIO-Hungarian-AI-Olympiad/
 │   ├── docs/                          # Versenyszabályzatok, one-pagerek
 │   ├── nyari-online/                  # Kaggle feladatok + adatok
 │   ├── nyari-orszagos/                # Feladatok, megoldások, elméleti rész
-│   └── nyari-tabor/                   # Feladatok, megoldások (ML, NLP, CV)
+│   ├── nyari-tabor/                   # Feladatok, megoldások (ML, NLP, CV)
+│   └── teli-orszagos/                 # Elméleti rész, Kettős Könyvelés (ML) + adatok
 ├── tananyagok/                        # Felkészülési tananyag (MÓLÓ + HAIO)
 └── logos/                             # HAIO arculati elemek
 ```
@@ -92,6 +93,7 @@ Minden notebook elérhető **magyarul és angolul** is.
 - [Tematika (MÓLÓ)](https://tehetseg.inf.elte.hu/mi_olimpia/molo) - felkészülési útmutató és tananyag
 - [Eredmények 2024](https://tehetseg.inf.elte.hu/mi_olimpia/archive/2024/results)
 - [Eredmények 2025 Online](https://tehetseg.inf.elte.hu/mi_olimpia/archive/2025/online-results) · [Eredmények 2025 Országos](https://tehetseg.inf.elte.hu/mi_olimpia/archive/2025/results)
+- [Eredmények 2026 Téli Országos](https://tehetseg.inf.elte.hu/mi_olimpia/archive/2026/teli-results)
 - [Hall of Fame](https://tehetseg.inf.elte.hu/mi_olimpia/hall-of-fame) - nemzetközi szereplések
 
 ## Partnerek
@@ -147,7 +149,7 @@ The competition expands each year:
 | **Summer Online** | Kaggle | Online qualifier, ML task scored on public leaderboard | 2025 |
 | **Summer National** | On-site | National finals at ELTE: theoretical + practical (CV, NLP, ML, RL) | 2024 |
 | **Summer Camp** | On-site | Training camp and final selection for international teams | 2026 |
-| **Winter National** | On-site | National round | 2026 |
+| **Winter National** | On-site | National qualifier: theory + a one-hour practical (ML) round, selecting the IAIO team | 2026 |
 | **Winter Camp** | On-site | Training camp and final selection | 2026 |
 
 ## Editions
@@ -155,8 +157,8 @@ The competition expands each year:
 | Year | Rounds | Tasks | Folder |
 |------|--------|-------|--------|
 | **2024** | Summer National | 10 tasks (4 CV, 4 NLP, 2 theoretical) | [`2024/`](2024/) |
-| **2025** | Summer Online + Summer National | 5 tasks (1 ML online + 1 theoretical + 4 practical) | [`2025/`](2025/) |
-| **2026** | Summer Online + Summer National + Summer Camp + Winter National + Winter Camp | 8 tasks *(so far)* | [`2026/`](2026/) |
+| **2025** | Summer Online + Summer National | 6 tasks (1 ML online + 1 theoretical + 4 practical) | [`2025/`](2025/) |
+| **2026** | Summer Online + Summer National + Summer Camp + Winter National + Winter Camp | 11 tasks *(so far)* | [`2026/`](2026/) |
 
 ## Repository Structure
 
@@ -173,7 +175,8 @@ HAIO-Hungarian-AI-Olympiad/
 │   ├── docs/                          # Competition rules, one-pagers
 │   ├── nyari-online/                  # Kaggle tasks + data
 │   ├── nyari-orszagos/                # Tasks, solutions, theory
-│   └── nyari-tabor/                   # Tasks, solutions (ML, NLP, CV)
+│   ├── nyari-tabor/                   # Tasks, solutions (ML, NLP, CV)
+│   └── teli-orszagos/                 # Theory, Kettős Könyvelés (ML) + data
 ├── tananyagok/                        # Preparation curriculum (MÓLÓ + HAIO)
 └── logos/                             # HAIO branding assets
 ```
@@ -196,6 +199,7 @@ Every notebook is available in **both Hungarian and English**.
 - [Syllabus (MÓLÓ)](https://tehetseg.inf.elte.hu/mi_olimpia/molo) - preparation guide and study materials
 - [Results 2024](https://tehetseg.inf.elte.hu/mi_olimpia/archive/2024/results)
 - [Results 2025 Online](https://tehetseg.inf.elte.hu/mi_olimpia/archive/2025/online-results) · [Results 2025 National](https://tehetseg.inf.elte.hu/mi_olimpia/archive/2025/results)
+- [Results 2026 Winter National](https://tehetseg.inf.elte.hu/mi_olimpia/archive/2026/teli-results)
 - [Hall of Fame](https://tehetseg.inf.elte.hu/mi_olimpia/hall-of-fame) - international performances
 
 ## Partners
