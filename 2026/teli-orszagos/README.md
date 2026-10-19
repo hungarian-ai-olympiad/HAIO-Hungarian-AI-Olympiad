@@ -27,7 +27,7 @@ Háromórás, papíralapú feladatsor 22 feladattal, feleletválasztós és kife
 |---------|-----------|--------|---------|-------|----------|-------|
 | Kettős Könyvelés | ML | Rekordpárosítás: a GPS-rekordok és a forgalmi napló bejegyzéseinek egy-egy párosítása blokkokon belül, közös azonosító nélkül | [`feladat`](feladatok/kettos-konyveles.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hungarian-ai-olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2026/teli-orszagos/feladatok/kettos-konyveles.ipynb) | [`megoldás`](megoldasok/kettos-konyveles-megoldas.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hungarian-ai-olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2026/teli-orszagos/megoldasok/kettos-konyveles-megoldas.ipynb) |
 
-Az adatok a [`feladatok/adatok/kettos-konyveles/`](feladatok/adatok/kettos-konyveles/) mappában vannak. A megoldás-notebook tíz megoldást épít fel egymás után, mindegyik egy új ötlettel tér el az előzőtől. A pontosságot és a pontszámot a teszthalmazon mértük, a DOCK kiértékelőjének görbéjével:
+Az adatok és a teszthalmaz kulcsa (`test_key.csv`) a [`feladatok/adatok/kettos-konyveles/`](feladatok/adatok/kettos-konyveles/) mappában vannak. A megoldás-notebook tíz megoldást épít fel egymás után, mindegyik egy új ötlettel tér el az előzőtől. A pontosságot és a pontszámot a teszthalmazon mértük, a DOCK kiértékelőjének görbéjével:
 
 | # | Megoldás | Teszt pontosság | Pont |
 |---:|---|---:|---:|
@@ -75,7 +75,7 @@ A three-hour, paper-based problem set of 22 problems with multiple-choice and wr
 |------|----------|-------------|------|-------|----------|-------|
 | Kettős Könyvelés (Double Entry) | ML | Record linkage: one-to-one matching of GPS records and traffic log entries within blocks, without a shared identifier | [`task`](feladatok/kettos-konyveles.en.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hungarian-ai-olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2026/teli-orszagos/feladatok/kettos-konyveles.en.ipynb) | [`solution`](megoldasok/kettos-konyveles-megoldas.en.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hungarian-ai-olympiad/HAIO-Hungarian-AI-Olympiad/blob/main/2026/teli-orszagos/megoldasok/kettos-konyveles-megoldas.en.ipynb) |
 
-The data is in [`feladatok/adatok/kettos-konyveles/`](feladatok/adatok/kettos-konyveles/). The solution notebook builds ten solutions one after another, each differing from the previous one in a single new idea. Accuracy and score were measured on the test set, with the curve of the DOCK evaluator:
+The data and the key of the test set (`test_key.csv`) are in [`feladatok/adatok/kettos-konyveles/`](feladatok/adatok/kettos-konyveles/). The solution notebook builds ten solutions one after another, each differing from the previous one in a single new idea. Accuracy and score were measured on the test set, with the curve of the DOCK evaluator:
 
 | # | Solution | Test accuracy | Points |
 |---:|---|---:|---:|
